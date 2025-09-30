@@ -1,4 +1,4 @@
-# AlfaGrow Security Service
+# AlfaGrow Security Master Service
 
 A comprehensive security data management service that fetches, processes, and serves company security information from Prowess CMIE API.
 
