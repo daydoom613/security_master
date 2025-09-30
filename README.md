@@ -9,7 +9,6 @@ The service follows a clean architecture pattern with the following components:
 - **FastAPI**: RESTful API framework
 - **PostgreSQL**: Primary database for security data
 - **AWS S3**: Logging and raw data storage
-- **Nginx**: Reverse proxy and load balancer
 - **Gemini AI**: Abbreviation expansion for company names
 
 ## 📁 Project Structure
